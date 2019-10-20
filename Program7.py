@@ -5,7 +5,7 @@ def func(j):
     for i in j: 
         if type(i) == type(i):
             count += 1
-              
+        else:      
     return count 
 j= [[1, 2, 3], [4, 5], 44, ['a'], 'b','c',[6, 7, 8, 9]] 
 print("The number of lists in the given list is ")
