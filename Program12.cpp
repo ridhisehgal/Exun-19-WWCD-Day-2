@@ -3,7 +3,7 @@
 
 int function(int n) { 
     int temp = n,value = 0, c = 1; 
-    while (temp) { 
+    while (temp>=0) { 
         int r = temp % 10;  
         value += r * c; 
         c *= 2; 
