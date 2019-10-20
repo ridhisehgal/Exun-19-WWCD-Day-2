@@ -1,7 +1,7 @@
 // Calculate sum of digits of a given number n
 // Complexity: E
 
-int sumOfDigits(int n) {
+{ int sumOfDigits(int n) 
  	if(n <9 ) { 
  		return n;
  	}
