@@ -12,7 +12,7 @@ int main(){
 	cout << 1[arr] << endl;
 	cout << arr++ << endl; 
 	cout << arr << endl;
-	cout << (arr + 1) << endl;
+	cout << &(arr + 1) << endl;
 	return 0;
 }
 
