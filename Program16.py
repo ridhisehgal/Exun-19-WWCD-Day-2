@@ -16,7 +16,7 @@ def orgate(a, b):
 	if a == 1 or b == 1: 
 		return False
 	else: 
-		return False
+		return True
 def NOR(a, b): 
     if(a == 0) and (b == 0): 
         return 0
