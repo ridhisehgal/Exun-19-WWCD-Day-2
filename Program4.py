@@ -8,5 +8,5 @@ def function n:
         value += r * c 
         c *= 2 
     return value 
-
+function()
 
